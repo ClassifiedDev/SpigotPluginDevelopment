@@ -1,7 +1,4 @@
 # Spigot Plugin Development
-All source code and project files from my "Spigot Plugin Development" YouTube series.
-
-<!-- <img align="center" href="https://www.classifieddeveloping.com" src="https://i.imgur.com/DcnDqyQ.png"/> -->
 
 <a href="https://github.com/ClassifiedDev/SpigotPluginDevelopment/stargazers"><img src="https://img.shields.io/github/stars/ClassifiedDev/SpigotPluginDevelopment?color=fffa66" alt="Stars Badge"/></a>
 <a href="https://github.com/ClassifiedDev/SpigotPluginDevelopment/network/members"><img src="https://img.shields.io/github/forks/ClassifiedDev/SpigotPluginDevelopment?color=5ee4ff" alt="Forks Badge"/></a>
@@ -9,3 +6,5 @@ All source code and project files from my "Spigot Plugin Development" YouTube se
 <a href="https://github.com/ClassifiedDev/SpigotPluginDevelopment/issues"><img src="https://img.shields.io/github/issues/ClassifiedDev/SpigotPluginDevelopment?color=ff4f4f" alt="Issues Badge"/></a>
 <a href="https://github.com/ClassifiedDev/SpigotPluginDevelopment/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ClassifiedDev/SpigotPluginDevelopment?color=70ff7a"></a>
 <a href="https://github.com/ClassifiedDev/SpigotPluginDevelopment/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ClassifiedDev/SpigotPluginDevelopment?color=e659ff" alt="License Badge"/></a>
+
+<p>All source code and project files from my "Spigot Plugin Development" YouTube series.</p>
