@@ -7,5 +7,5 @@
 <a href="https://github.com/ClassifiedDev/SpigotPluginDevelopment/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ClassifiedDev/SpigotPluginDevelopment?color=70ff7a"></a>
 <a href="https://github.com/ClassifiedDev/SpigotPluginDevelopment/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ClassifiedDev/SpigotPluginDevelopment?color=e659ff" alt="License Badge"/></a>
 
-<p>All source code and project files from my "Spigot Plugin Development" [YouTube series](https://www.youtube.com/channel/UCUsNZ-z383nQ0FUZyJnaIYw).</p>
+<i>All source code and project files from my "Spigot Plugin Development" [YouTube series](https://www.youtube.com/channel/UCUsNZ-z383nQ0FUZyJnaIYw).</i>
 
