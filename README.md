@@ -1,2 +1,2 @@
 # Spigot Plugin Development
-All code and projects from my "Spigot Plugin Development" YouTube videos.
+All source code and project files from my "Spigot Plugin Development" YouTube series.
