@@ -1,6 +1,7 @@
 # Spigot Plugin Development
 All source code and project files from my "Spigot Plugin Development" YouTube series.
-<img align="center" href="https://www.classifieddeveloping.com" src="https://i.imgur.com/DcnDqyQ.png"/>
+
+<!-- <img align="center" href="https://www.classifieddeveloping.com" src="https://i.imgur.com/DcnDqyQ.png"/> 
 
 <a href="https://github.com/ClassifiedDev/SpigotPluginDevelopment/stargazers"><img src="https://img.shields.io/github/stars/ClassifiedDev/SpigotPluginDevelopment" alt="Stars Badge"/></a>
 <a href="https://github.com/ClassifiedDev/SpigotPluginDevelopment/network/members"><img src="https://img.shields.io/github/forks/ClassifiedDev/SpigotPluginDevelopment" alt="Forks Badge"/></a>
